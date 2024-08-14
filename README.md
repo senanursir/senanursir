@@ -68,6 +68,5 @@
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/d7/b2/e5/d7b2e52d246dffe794a6a1c750a05593.jpg"  />
 </div>
-<img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
 
 ###
