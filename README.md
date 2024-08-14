@@ -62,9 +62,8 @@
 
 ###
 
-
-<div align="left">
-  <img height="200" src="https://i.pinimg.com/originals/d7/b2/e5/d7b2e52d246dffe794a6a1c750a05593.jpg"  />
+<div align="center">
+  <img height="250" src="https://i.pinimg.com/originals/0b/4d/90/0b4d9081e8d9126effaf7c7052dd71e8.jpg"  />
 </div>
 
 ###
