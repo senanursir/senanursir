@@ -62,12 +62,9 @@
 
 ###
 
-<p align="left"></p>
-
-
-###
 
 <div align="left">
   <img height="200" src="https://i.pinimg.com/originals/d7/b2/e5/d7b2e52d246dffe794a6a1c750a05593.jpg"  />
 </div>
+
 ###
