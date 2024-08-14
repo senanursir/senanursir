@@ -37,7 +37,7 @@
 ###
 
 
-<h6 align="left">GET CONTACT WİTH ME👇🏻</h6>
+<p align="left">GET CONTACT WİTH ME👇🏻</p>
 
 ###
 
