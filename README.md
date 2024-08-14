@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Tools, languages, and other things that I work with.</p>
+<h6 align="left">Tools, languages, and other things that I work with.</h6>
 
 ###
 
