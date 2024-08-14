@@ -41,17 +41,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senanursir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="169" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senanursir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=MOST%20USED%20LANGUAGE" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=senanursir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=senanursir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <h6 align="left">GET CONTACT WİTH ME👇🏻</h6>
-
-###
-
-<img align="right" height="300" src="https://i.pinimg.com/originals/d7/b2/e5/d7b2e52d246dffe794a6a1c750a05593.jpg"  />
 
 ###
 
@@ -69,3 +65,8 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/d7/b2/e5/d7b2e52d246dffe794a6a1c750a05593.jpg"  />
+</div>
+
+###
