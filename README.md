@@ -62,6 +62,15 @@
 
 
 ###
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <div align="left">
   <img height="250" src="https://i.pinimg.com/originals/0b/4d/90/0b4d9081e8d9126effaf7c7052dd71e8.jpg"  />
