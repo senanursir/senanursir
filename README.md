@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🍁Hi! I am Senanur SIR<br>🌴I'm presently developing myself in data science<br>👒I'm a MIS student at the moment<br>⛹🏻‍♀️Like to watch&play basketball in my free time</p>
+<p align="left">🍁Hi! I am Senanur SIR<br>🌴I'm presently developing myself in data science<br>👒I'm a MIS student at the moment<br></p>
 
 ###
 
