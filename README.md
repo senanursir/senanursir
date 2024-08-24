@@ -2,12 +2,11 @@
   <a href="https://https://www.linkedin.com/in/senanursir/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
 ###
 
-<h1 align="center">☄️Hello There I'am Sena</h1>
+<h1 align="center">Hello There I'am Sena</h1>
 
 ###
 
@@ -15,7 +14,7 @@
 
 ###
 
-<p align="left">🍁Hi! I am Senanur SIR<br>🌴I'm presently developing myself in data science<br>👒I'm a MIS student at the moment<br></p>
+<p align="left">Hi! I am Senanur SIR.<br>I'm presently developing myself in data science.<br>I'm a MIS student at the moment.<br></p>
 
 ###
 
@@ -41,18 +40,18 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=senanursir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=senanursir&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/0b/4d/90/0b4d9081e8d9126effaf7c7052dd71e8.jpg"  />
+  <img height="220" src="https://i.pinimg.com/originals/0b/4d/90/0b4d9081e8d9126effaf7c7052dd71e8.jpg"  />
 </div>
 
 ###
