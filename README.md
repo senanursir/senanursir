@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hello There I'am Sena</h1>
+<h1 align="center">Hi There! I'am Sena </h1>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Tools, languages and other things that i work with</h3>
+<h3 align="left">Tools, languages and other things that i work with:</h3>
 
 ###
 
