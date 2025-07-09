@@ -3,11 +3,11 @@
 
 ###
 
-<h1 align="center">Hi There!👋🏻  I'm Sena🪸 </h1>
+<h1 align="center">Hi There! I'm Sena🫧 </h1>
 
 ###
 
-<h2 align="center">-About Me- </h2>
+<h2 align="center">About Me🩰 </h2>
 
 ###
 
@@ -42,7 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-###
 
 
 <div align="center">
