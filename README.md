@@ -1,27 +1,25 @@
 <div align="center">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
 
-<h1 align="center">Hi There! I'm Sena </h1>
+<h1 align="center">Hi There! I'm Sena 👋🏻🐚 </h1>
 
 ###
 
-<h2 align="left">About Me </h2>
+<h2 align="center">-About Me- </h2>
 
 ###
 
-<p align="left">Hi! I am Senanur SIR.<br>I'm presently developing myself in data science.<br>I'm a MIS student at the moment.<br></p>
+<p align="center">Hi! I am Senanur SIR 🌴<br>I'm presently developing myself in data science.🍉<br>I'm a MIS student at the moment.🌄<br></p>
 
 ###
 
-<h3 align="left">Tools, languages and other things that i work with:</h3>
+<h2 align="center"> What i work with; </h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
